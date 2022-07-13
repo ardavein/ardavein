@@ -1,6 +1,7 @@
 - There is nothing special, I am just an old beginner(?) discord bot programmer on Javascript. 
-- I was a master at discord.js v12 but i can't say that about node.js.
-- So i am currently trying to learn about almost all necessary things about node.js.
+- I was a master at discord.js v12 but i can't say that about js.
+- So i am currently trying to learn discord.js v13 and js completely.
+- I am trying to make a new discord bot made with discord.js v13.
 - I and my friend @Evils7 made a verified(early verified actually) bot named Rvein.
-- Right now i am coding nothing but my partner is coding and upgrading Rvein still.
+- Right now i am coding a bot but that is private but my partner is coding and upgrading Rvein still.
 - You can take a look at Rvein on https://top.gg/tr/bot/683366408092254275
