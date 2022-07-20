@@ -1,7 +1,3 @@
-- There is nothing special, I am just an old beginner(?) discord bot programmer on Javascript. 
-- I was a master at discord.js v12 but i can't say that about js.
-- So i am currently trying to learn discord.js v13 and js completely.
-- I am trying to make a new discord bot made with discord.js v13.
-- I and my friend @Evils7 made a verified(early verified actually) bot named Rvein.
-- Right now i am coding a bot but that is private but my partner is coding and upgrading Rvein still.
-- You can take a look at Rvein on https://top.gg/tr/bot/683366408092254275
+- There is nothing special about me, I am just an beginner(?) discord bot programmer on Javascript 
+- I was using discord.js v12-v13 to making bots but currently i am bored of mutation discord.js for every version.
+- So i am started using eris to make bots.
