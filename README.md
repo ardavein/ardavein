@@ -1,3 +1,1 @@
-- There is nothing special about me,
-- I am Arda Baskaya,
-- That's all.
+Arda Baskaya.
